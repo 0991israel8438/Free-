@@ -14,6 +14,7 @@ nav{
   padding: 2% 6%;
   text-align: center;
   justify-items: space-between;
+  background: #2C4231;
 }
 .logo{
   color: #F9F9FF;
@@ -33,20 +34,22 @@ nav{
   list-style: none;
 }
 .navbar ul li a{
-  color: #3EC283;
+  background: #4C564C;
+  color: #FFFFFF;
   text-decoration: none;
   font-size: 30px;
-  margin-left: 100px;
+  margin-left: 19px;
   transition: 0.5s;
 }
 .navbar ul li a:hover{
+  background: #000;
   color: #FFFFFF;
 }
 .About h1{
   color: #FFFFFF;
   text-align: center;
   font-family: arial;
-  margin-top: 100px;
+  margin-top: 200px;
 }
 .credits p{
   color: #ffffff;
