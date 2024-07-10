@@ -56,4 +56,37 @@ nav{
   text-align: center;
   font: arial;
   margin-top: 150px;
+  margin-bottom: 0px;
+}
+.Advertise{
+  margin: auto;
+  padding: 0px;
+  align-content: center;
+  position: absolute;
+}
+.Advertise h1{
+  font-size: 100px;
+  text-align: center;
+}
+.Advertise h2{
+  font-size: 50px;
+  text-align: center;
+}
+.Advertise img{
+  width: 500px;
+  margin-left: 230px;
+}
+.Advertise a{
+  text-decoration: none;
+  display: block;
+  color: #000;
+  background: #7D7D7D;
+  margin-left: 200px;
+  font-size: 100px;
+  margin-right: 250px;
+  transition: 0.5s;
+}
+.Advertise a:hover{
+  color:#7D7D7D;
+  background: #FFFFFF;
 }
