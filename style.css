@@ -84,9 +84,9 @@ nav{
   display: block;
   color: #000;
   background: #7D7D7D;
-  margin-left: 200px;
-  font-size: 100px;
-  margin-right: 250px;
+  margin-left: 350px;
+  font-size: 50px;
+  margin-right: 350px;
   transition: 0.5s;
 }
 .Advertise a:hover{
