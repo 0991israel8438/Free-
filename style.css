@@ -49,17 +49,24 @@ nav{
   color: #FFFFFF;
 }
 .About h1{
-  color: #FFFFFF;
+  color: #000;
   text-align: center;
   font-family: arial;
   margin-top: 200px;
+  margin-bottom: 500px;
+  font-size: 100px;
+  background: #B6B6B6;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 .credits p{
   color: #ffffff;
   text-align: center;
   font: arial;
   margin-top: 150px;
-  margin-bottom: 0px;
+  margin-bottom: 500px;
+  font-size: 50px;
+  margin-left: 50px;
 }
 .Advertise{
   margin: auto;
@@ -70,10 +77,13 @@ nav{
 .Advertise h1{
   font-size: 100px;
   text-align: center;
+  background: #A9A9A9;
 }
 .Advertise h2{
   font-size: 50px;
   text-align: center;
+  display: block;
+  background: #ffffff;
 }
 .Advertise img{
   width: 500px;
@@ -83,13 +93,14 @@ nav{
   text-decoration: none;
   display: block;
   color: #000;
-  background: #7D7D7D;
-  margin-left: 350px;
+  background: #88C164;
   font-size: 50px;
-  margin-right: 350px;
   transition: 0.5s;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
 }
 .Advertise a:hover{
-  color:#7D7D7D;
-  background: #FFFFFF;
+  color:#FFFFFF;
+  background: #646663;
 }
